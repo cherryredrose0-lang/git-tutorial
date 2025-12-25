@@ -1,2 +1,2 @@
-console.log('code like a girl');
-console.log('Algorethem');
+console.log('config.js');
+console.log('version1');
